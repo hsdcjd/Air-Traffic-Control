@@ -3,7 +3,7 @@ _[npm test in the terminal]_
 
 
 ## Catherine's Airport Challenge Solution
-(A DFA Challnege, January 2023)
+(A DFA Challenge, January 2023)
 
 ## Part 1 User Story
 
